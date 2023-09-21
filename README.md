@@ -4,7 +4,7 @@ This project involves designing an e-commerce website, specifically focusing on 
 
 1) Banner section with eye-catching visuals.
 2) Featured categories with images.
-3) Featured products displaying product price, images, and ratings.
+3) Featured products displaying product price, images, and ratings. 
 4) A section showcasing the latest products.
 5) An exclusive offer section featuring a special product.
 6) Testimonials from satisfied customers.
