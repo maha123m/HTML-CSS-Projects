@@ -20,7 +20,7 @@ registration pages for the e-commerce website.
   <img src ="https://github.com/maha123m/HTML-CSS-Projects/assets/99613493/8ff783d6-6351-4726-9ae1-0cbdb7d35740" width="900" height="400"> 
   
 
-  <img src ="https://github.com/maha123m/HTML-CSS-Projects/assets/99613493/d25c8580-674c-42b5-903a-63d3464c427d" width="900" height="400"> 
+  <img src ="https://github.com/maha123m/HTML-CSS-Projects/assets/99613493/d25c8580-674c-42b5-903a-63d3464c427d" width="900" height="400">  
   
 
   <img src ="https://github.com/maha123m/HTML-CSS-Projects/assets/99613493/a79786d8-e7bd-4428-8ba4-4ba064e82d4f" width="900" height="400">  
