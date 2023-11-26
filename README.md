@@ -1,17 +1,17 @@
 # HTML-CSS-Project (Ecommerce Website)
 ## Project Description
-This project involves designing an e-commerce website, specifically focusing on creating the homepage. The homepage will include the following elements:
+This project involves designing an e-commerce website, specifically focusing on creating the homepage. The homepage will include the following elements: 
 
 1) Banner section with eye-catching visuals.
 2) Featured categories with images.
-3) Featured products displaying product price, images, and ratings. 
+3) Featured products displaying product price, images, and ratings.  
 4) A section showcasing the latest products.
 5) An exclusive offer section featuring a special product.
 6) Testimonials from satisfied customers.
-7) A section highlighting top brands.
-8) A footer with four columns for additional information.
+7) A section highlighting top brands. 
+8) A footer with four columns for additional information. 
 
-Additionally, the project aims to make the website design responsive for mobile devices and implement a dropdown menu for mobile screens.
+Additionally, the project aims to make the website design responsive for mobile devices and implement a dropdown menu for mobile screens. 
 In the next phase of the project, we plan to create pages for all products, a single product page, a shopping cart page, and login and 
 registration pages for the e-commerce website.
 
@@ -32,4 +32,4 @@ registration pages for the e-commerce website.
 
 ## Reference
 
-https://www.youtube.com/watch?v=yQimoqo0-7g
+https://www.youtube.com/watch?v=yQimoqo0-7g 
